@@ -59,6 +59,8 @@ Find the information on how to run changes on the cluster without a Docker image
 
 6. Test your changes.
 
+AAA
+
 ### Project structure
 
 The repository has the following structure:
