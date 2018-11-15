@@ -12,4 +12,4 @@ Resources currently include, but are not limited to, the following:
 - Scripts for the installation of Helm, Istio deployment, as well as scripts for validating Pods, starting Kyma, and testing
 
 PADU WAS HERE
-PADU WAS ALSO HERE
+PADU WAS ALSO HERE!!!
