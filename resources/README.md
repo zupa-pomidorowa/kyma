@@ -12,3 +12,4 @@ Resources currently include, but are not limited to, the following:
 - Scripts for the installation of Helm, Istio deployment, as well as scripts for validating Pods, starting Kyma, and testing
 
 123
+456
