@@ -10,3 +10,6 @@ Resources currently include, but are not limited to, the following:
 - The `core` components required to run the Kyma
 - Examples of the use of specific components
 - Scripts for the installation of Helm, Istio deployment, as well as scripts for validating Pods, starting Kyma, and testing
+
+123
+456
