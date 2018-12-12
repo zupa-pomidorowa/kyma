@@ -60,6 +60,8 @@ func tlsVersion(versionName string) (uint16, error) {
 
 func main() {
 
+	fmt.Println("Zupa Pomidorowa was here!!!")
+
 	cfg := config{
 		auth: proxy.Config{
 			Authentication: &authn.AuthnConfig{
